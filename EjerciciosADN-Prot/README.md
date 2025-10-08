@@ -8,6 +8,14 @@
 
 ### 6 Octubre 2025
 
+
+ En la carpeta se puede encontrar lo siguiente:  
+ - Un pdf con el informe de los ejercicios resueltos  
+ - El apoyo visual para la presentación  
+ - El código de los ejercicios resueltos  
+ - Dos ficheros de datos usados en la resolución de datos  
+
+   
 ## Ejercicio 1: Replicación del ADN
 
 **Objetivo** : comprender el mecanismo semiconservativo y las enzimas implicadas.
