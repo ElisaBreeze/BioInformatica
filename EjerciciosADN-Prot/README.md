@@ -228,7 +228,7 @@ una mutación puntual podría afectar al plegamiento:
   
 La lisozima es una proteína que daña las paredes celulares de las bacterias, actuando así
 como una barrera natural contra infecciones.
-En la imagen (Visualizadble en el PDF BIOPA2.pdf) se puede observar su estructura, donde las hélices alfa son las partes
+En la imagen (Visualizable en el PDF BIOPA2.pdf) se puede observar su estructura, donde las hélices alfa son las partes
 enrolladas en forma de muelle, y las láminas beta son las partes más planas y extendidas.
 Las partes que parecen ganchos, son puentes disulfuro, que se encargan de mantener la
 forma estable.  
